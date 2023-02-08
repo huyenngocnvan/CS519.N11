@@ -15,6 +15,7 @@
 * [ Giảng viên hướng dẫn](#giangvien)
 * [ Thành viên nhóm](#thanhvien)
 * [ Đồ án môn học](#doan)
+
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
 * **Tên môn học**: Phương pháp luận nghiên cứu khoa học
@@ -27,37 +28,27 @@
 
 ## QUÁ TRÌNH MÔN HỌC
 <a name ="quatrinh"></a>
-### 1. Phương pháp luận và nghiên cứu khoa học
 
-#### WEEK 1: Overview
+#### WEEK 1: OVERVIEW
 
-#### WEEK 2-3: How to learn
+#### WEEK 2-3: HOW TO LEARN
 
-#### WEEK 4: Asking questions 
+#### WEEK 4: RESEARCH vs SCIENTIFIC RESEARCH 
 
-#### WEEK 5-7: Critical thinking
+#### WEEK 5-7: CRITICAL THINKING
 
-#### WEEK 8: Tầm nhìn vương tới đỉnh cao
+#### WEEK 8: DOING RESEARCH
 
-#### WEEK 9: Critical thinking
+#### WEEK 9: RESEARCH EVALUATION
 
-#### WEEK 10-11: Doing research
+#### WEEK 10-11: PRESENTATION
 
-#### WEEK 12: Intellectual property
+#### WEEK 12: Intellectual Property Seminar
 
-#### WEEK 14: Final project guide
+#### WEEK 13: TIME MANAGEMENT
 
-<a name ="colab"></a>
-### 2. Assignments
+#### WEEK 14: Final Project Guide
 
-#### Excercise 01
-
-Thực hiện các bước xử lí dữ liệu trên dataset Iris
-
-[Excercise 01](https://github.com/truong11062002/CS116.N11/tree/main/Assignments/Ex1)
-
-<a name ="QT"></a>
-### 3. Bài tập trên lớp
 
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
@@ -69,10 +60,14 @@ Thực hiện các bước xử lí dữ liệu trên dataset Iris
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 20521424      | Văn Nguyễn Ngọc Huyền  |https://github.com/huyenngocnvan                      |20521424@gm.uit.edu.vn   |
 | 2      | 20520142      | Trần Nguyên Bảo        |https://github.com/TNB142                             |20520142@gm.uit.edu.vn   |
-| 3      | 20520731      | Trần Thị Mỹ Quyên      |https://github.com/AzaleaBrowns                       |20520731@gm.uit.edu.vn   |
+| 3      | 20520731      | Trần Thị Mỹ Quyên      |https://github.com/Ceci-june                          |20520731@gm.uit.edu.vn   |
+
+
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
 1. Tên đồ án: Updating
+2. Tài nguyên đồ án: Updating
+
 ## DEMO ĐỒ ÁN
 
 
