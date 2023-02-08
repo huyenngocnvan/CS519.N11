@@ -5,7 +5,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>CS116.N11 Lập trình Python cho Máy học</b></h1>
+<h1 align="center"><b>CS519.N11 Phương pháp luận và nghiên cứu khoa học</b></h1>
 
 
 
@@ -54,9 +54,9 @@ Thực hiện các bước xử lí dữ liệu trên dataset Iris
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
-| 1      | 20521424      | Văn Nguyễn Ngọc Huyền     |https://github.com/truong11062002                     |20522087@gm.uit.edu.vn   |
-| 2      | 20520142      | Trần Nguyên Bảo     |https://github.com/letruongngochai                    |20520481@gm.uit.edu.vn   |
-| 3      | 20520355      | Lê Thị Phương Vy       |https://github.com/Ceci-june                          |20520355@gm.uit.edu.vn   |
+| 1      | 20521424      | Văn Nguyễn Ngọc Huyền  |https://github.com/truong11062002                     |20522087@gm.uit.edu.vn   |
+| 2      | 20520142      | Trần Nguyên Bảo        |https://github.com/TNB142                             |20520142@gm.uit.edu.vn   |
+| 3      | 20520355      | Trần Thị Mỹ Quyên      |https://github.com/Ceci-june                          |20520731@gm.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
 1. Tên đồ án: Updating
