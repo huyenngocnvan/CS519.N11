@@ -11,18 +11,20 @@
 
 ## BẢNG MỤC LỤC
 * [ Giới thiệu môn học](#gioithieumonhoc)
-* [Quá trình môn học](#quatrinh)
+* [ Quá trình môn học](#quatrinh)
 * [ Giảng viên hướng dẫn](#giangvien)
 * [ Thành viên nhóm](#thanhvien)
 * [ Đồ án môn học](#doan)
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
-* **Tên môn học**: Lập trình Python cho Máy học
-* **Mã môn học**: CS116
-* **Lớp học**: CS116.N11
+* **Tên môn học**: Phương pháp luận nghiên cứu khoa học
+* **Mã môn học**: CS519
+* **Lớp học**: CS519.N11
 * **Ngày bắt đầu**: 05/09/2022
 * **Ngày kết thúc**: 24/12/2022
 * **Năm học**: 2022-2023
+
+
 ## QUÁ TRÌNH MÔN HỌC
 <a name ="quatrinh"></a>
 ### 1. Lập trình Python cho Máy học
@@ -46,16 +48,15 @@ Thực hiện các bước xử lí dữ liệu trên dataset Iris
 
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
-* TS. **Nguyễn Vinh Tiệp** - *tiepnv@uit.edu.vn*
+* TS. **Lê Đình Duy** - *duyld@uit.edu.vn*
 
 ## THÀNH VIÊN NHÓM
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
-| 1      | 20522087      | Nguyễn Nhật Trường     |https://github.com/truong11062002                     |20522087@gm.uit.edu.vn   |
-| 2      | 20520481      | Lê Trương Ngọc Hải     |https://github.com/letruongngochai                    |20520481@gm.uit.edu.vn   |
+| 1      | 20521424      | Văn Nguyễn Ngọc Huyền     |https://github.com/truong11062002                     |20522087@gm.uit.edu.vn   |
+| 2      | 20520142      | Trần Nguyên Bảo     |https://github.com/letruongngochai                    |20520481@gm.uit.edu.vn   |
 | 3      | 20520355      | Lê Thị Phương Vy       |https://github.com/Ceci-june                          |20520355@gm.uit.edu.vn   |
-| 4      | 20520309      | Lại Chí Thiện          |https://github.com/laichithien                        |20520309@gm.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
 1. Tên đồ án: Updating
