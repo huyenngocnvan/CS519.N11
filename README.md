@@ -27,12 +27,25 @@
 
 ## QUÁ TRÌNH MÔN HỌC
 <a name ="quatrinh"></a>
-### 1. Lập trình Python cho Máy học
+### 1. Phương pháp luận và nghiên cứu khoa học
 
-#### WEEK 1: Tổng quan môn học
+#### WEEK 1: Overview
 
-#### WEEK 2: Thực hiện xử lí dữ liệu
+#### WEEK 2-3: How to learn
 
+#### WEEK 4: Asking questions 
+
+#### WEEK 5-7: Critical thinking
+
+#### WEEK 8: Tầm nhìn vương tới đỉnh cao
+
+#### WEEK 9: Critical thinking
+
+#### WEEK 10-11: Doing research
+
+#### WEEK 12: Intellectual property
+
+#### WEEK 14: Final project guide
 
 <a name ="colab"></a>
 ### 2. Assignments
