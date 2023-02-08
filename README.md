@@ -69,7 +69,7 @@ Thực hiện các bước xử lí dữ liệu trên dataset Iris
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 20521424      | Văn Nguyễn Ngọc Huyền  |https://github.com/huyenngocnvan                      |20521424@gm.uit.edu.vn   |
 | 2      | 20520142      | Trần Nguyên Bảo        |https://github.com/TNB142                             |20520142@gm.uit.edu.vn   |
-| 3      | 20520731      | Trần Thị Mỹ Quyên      |https://github.com/Ceci-june                          |20520731@gm.uit.edu.vn   |
+| 3      | 20520731      | Trần Thị Mỹ Quyên      |https://github.com/AzaleaBrowns                       |20520731@gm.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
 1. Tên đồ án: Updating
