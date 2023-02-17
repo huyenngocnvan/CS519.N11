@@ -60,12 +60,13 @@
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 20521424      | Văn Nguyễn Ngọc Huyền  |https://github.com/huyenngocnvan                      |20521424@gm.uit.edu.vn   |
 | 2      | 20520142      | Trần Nguyên Bảo        |https://github.com/TNB142                             |20520142@gm.uit.edu.vn   |
-| 3      | 20520731      | Trần Thị Mỹ Quyên      |https://github.com/Ceci-june                          |20520731@gm.uit.edu.vn   |
+| 3      | 20520731      | Trần Thị Mỹ Quyên      |https://github.com/AzaleaBrowns                       |20520731@gm.uit.edu.vn   |
 
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-1. Tên đồ án: Updating
+1. Tên đồ án: EMPIRICAL STUDY OF REPPOINTS REPRESENTATION FOR OBJECT DETECTION IN AERIAL IMAGES
+              <THỰC NGHIỆM CÁC MÔ HÌNH ỨNG DỤNG BIỂU DIỄN REPPOINTS TRÊN BÀI TOÁN PHÁT HIỆN ĐỐI TƯỢNG TRONG KHÔNG ẢNH>
 2. Tài nguyên đồ án: Updating
 
 ## DEMO ĐỒ ÁN
