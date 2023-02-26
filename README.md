@@ -59,8 +59,8 @@
 1. Tên đồ án (Tên tiếng Việt): EMPIRICAL STUDY OF REPPOINTS REPRESENTATION FOR OBJECT DETECTION IN AERIAL IMAGES
    Tên đồ án (Tên tiếng Anh): THỰC NGHIỆM CÁC MÔ HÌNH ỨNG DỤNG BIỂU DIỄN REPPOINTS TRÊN BÀI TOÁN PHÁT HIỆN ĐỐI TƯỢNG TRONG KHÔNG ẢNH>
 2. Tài nguyên đồ án: 
-[Final Report Docs](/Reppointsv2_Decoupled_Head_FinalReport.pdf)
-[Final Report Slides](/Reppointsv2_Decoupled_Head_FinalReport_Slide.pdf)
+* [Final Report Docs](/Reppointsv2_Decoupled_Head_FinalReport.pdf)
+* [Final Report Slides](/Reppointsv2_Decoupled_Head_FinalReport_Slide.pdf)
 
 ## DEMO ĐỒ ÁN
 <img align="center" src="./Reppointsv2_Decoupled_Head_FinalReport_Poster_.jpg">
