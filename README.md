@@ -30,23 +30,14 @@
 <a name ="quatrinh"></a>
 
 #### WEEK 1: OVERVIEW
-
 #### WEEK 2-3: HOW TO LEARN
-
 #### WEEK 4: RESEARCH vs SCIENTIFIC RESEARCH 
-
 #### WEEK 5-7: CRITICAL THINKING
-
 #### WEEK 8: DOING RESEARCH
-
 #### WEEK 9: RESEARCH EVALUATION
-
 #### WEEK 10-11: PRESENTATION
-
 #### WEEK 12: Intellectual Property Seminar
-
 #### WEEK 13: TIME MANAGEMENT
-
 #### WEEK 14: Final Project Guide
 
 
@@ -65,11 +56,13 @@
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-1. Tên đồ án: EMPIRICAL STUDY OF REPPOINTS REPRESENTATION FOR OBJECT DETECTION IN AERIAL IMAGES
-              <THỰC NGHIỆM CÁC MÔ HÌNH ỨNG DỤNG BIỂU DIỄN REPPOINTS TRÊN BÀI TOÁN PHÁT HIỆN ĐỐI TƯỢNG TRONG KHÔNG ẢNH>
-2. Tài nguyên đồ án: Updating
+1. Tên đồ án (Tên tiếng Việt): EMPIRICAL STUDY OF REPPOINTS REPRESENTATION FOR OBJECT DETECTION IN AERIAL IMAGES
+   Tên đồ án (Tên tiếng Anh): THỰC NGHIỆM CÁC MÔ HÌNH ỨNG DỤNG BIỂU DIỄN REPPOINTS TRÊN BÀI TOÁN PHÁT HIỆN ĐỐI TƯỢNG TRONG KHÔNG ẢNH>
+2. Tài nguyên đồ án: 
+[Final Report Docs](/Reppointsv2_Decoupled_Head_FinalReport.pdf)
+[Final Report Slides](/Reppointsv2_Decoupled_Head_FinalReport_Slide.pdf)
 
 ## DEMO ĐỒ ÁN
-
+<img align="center" src="./Reppointsv2_Decoupled_Head_FinalReport_Poster_.jpg">
 
 
